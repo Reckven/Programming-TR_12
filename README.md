@@ -12,4 +12,10 @@
 РЕЗУЛЬТАТ КОДУ:
 
 ![image](https://github.com/Reckven/Programming-TR_12/assets/131643668/e1f838ed-d55b-4488-86cd-abeffa46a77b)
+
 А ТАКОЖ САМ ТЕКСТОВИЙ ДОКУМЕНТ:
+
+![image](https://github.com/Reckven/Programming-TR_12/assets/131643668/ccb25189-391a-41e3-aec5-79b6b096ba60)
+
+Висновок: на цій лабораторній роботі я отримав навички роботи з файлами та текстовими документами а також покращив навички роботи з циклами for,while;
+
