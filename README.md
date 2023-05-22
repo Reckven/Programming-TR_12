@@ -50,5 +50,17 @@
 ![image](https://github.com/Reckven/Programming-TR_12/assets/131643668/11ebd911-b6b5-4f29-9eee-c07c2a73dac1)
 
 
+ЗАВДАННЯ 4: Виконати та представити код;
+
+
+![image](https://github.com/Reckven/Programming-TR_12/assets/131643668/9c658192-77d6-4192-8702-2aa9576daf82)
+
+
+
+Висновок : на цій лабораторній роботі я навчився працювати з директоріями та бібілотеками Python, а також я освоїв механізми імпорту.
+
+
+
+
 
 
