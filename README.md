@@ -1,4 +1,4 @@
-# Programming-TR_12 (Lab-2)
+# Programming-TR_12 (Lab-6)
 
 ВИКОРИСТАННЯ КЛАСІВ ТА СКЛАДНИХ ОБ'ЄКТІВ
 
