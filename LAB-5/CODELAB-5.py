@@ -3,7 +3,7 @@ from NUM_PROJ.convert import convert_number_to_words # імпорт функці
 
 def main(): # створення нашої функції
     greet_user() # Викликаємо дану наму функцію
-    number = int(input("Ведіть число: ")) # запитуємо в користувача число за допомогою команди "input"
+    number = int(input("Vedit Cheslo: ")) # запитуємо в користувача число за допомогою команди "input"
     words = convert_number_to_words(number) # застусовуємо директорію для перетворення числа
     print(words)
 
